@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.11.1"
+  }
+}
